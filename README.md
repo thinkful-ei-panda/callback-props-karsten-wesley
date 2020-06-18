@@ -1,3 +1,7 @@
+Refactored to use callbacks modifying state and allow for adding random cards and deleting
+
+Wesley Rou and Karsten Taylor
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
